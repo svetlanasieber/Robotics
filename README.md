@@ -5,7 +5,7 @@ Each robot processes a product coming from the assembly line. A product comes fr
 The robots are standing in the line in the order of their appearance.
 # Input
 # •	On the first line, you will get the names of the robots and their processing times in the format 
-"robotName-processTime;robotName-processTime;robotName-processTime".
+# "robotName-processTime;robotName-processTime;robotName-processTime".
 # •	On the second line, you will get the starting time in the format "hh:mm:ss".
 # •	Next, until the "End" command, you will get a product on each line.
 
