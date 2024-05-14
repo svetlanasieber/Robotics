@@ -9,18 +9,5 @@ The robots are standing in the line in the order of their appearance.
 •	On the second line, you will get the starting time in the format "hh:mm:ss".
 •	Next, until the "End" command, you will get a product on each line.
 
-# Input Example:
-ROB-15;SS2-10;NX8000-3
-8:00:00
-detail
-glass
-wood
-apple
-End
 
-# OutPut Example:
-ROB - detail [08:00:01]
-SS2 - glass [08:00:02]
-NX8000 - wood [08:00:03]
-NX8000 - apple [08:00:06]
 <img width="178" alt="2024-05-14 20_50_37-01-Java-Advanced-Stacks-and-Queues-Exercises  -  Kompatibilitätsmodus - Word" src="https://github.com/svetlanasieber/Robotics/assets/135451084/612789fb-da7f-4b40-879b-d918ebccfcac">
